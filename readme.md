@@ -15,3 +15,7 @@ EOF
 
 chmod u+x ~/Desktop/lolscript.command
 ```
+
+-------
+advantage: You can use the Shortcuts app on macOS to create a shortcut that launches League of Legends — and then pin it to your Dock with a custom icon. It’s a cleaner, more visual method
+-> https://github.com/phudinhtruongk18/playlolwithmic/blob/main/shortcut.md
