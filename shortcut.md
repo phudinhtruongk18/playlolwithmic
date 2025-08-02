@@ -33,9 +33,13 @@ You can use the Shortcuts app on macOS to create a shortcut that launches League
   
   Then Cmd + I (Get Info), and paste a custom icon in the top-left corner (drag an image there).
 
+
 🔥 Why this is awesome:
+
   No file management.
+  
   Looks cleaner in Dock.
+  
   Supports icons.
 
 You can record it for your YouTube video — looks modern and beginner-friendly!
